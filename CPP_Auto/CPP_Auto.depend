@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1405038296 source:d:\documents\facultad\renata\github\modelode2doparcial\cpp_auto\main.cpp
+	"Auto.h"
+
+1405038274 d:\documents\facultad\renata\github\modelode2doparcial\cpp_auto\include\auto.h
+	<iostream>
+
+1405038321 source:d:\documents\facultad\renata\github\modelode2doparcial\cpp_auto\src\auto.cpp
+	"Auto.h"
+

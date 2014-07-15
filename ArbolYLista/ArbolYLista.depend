@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1405090799 source:d:\documents\facultad\renata\github\modelode2doparcial\arbolylista\main.c
+	"funciones.h"
+
+1405090440 d:\documents\facultad\renata\github\modelode2doparcial\arbolylista\funciones.h
+	<stdio.h>
+
+1405086997 source:d:\documents\facultad\renata\github\modelode2doparcial\arbolylista\funciones.c
+	<stdio.h>
+	"funciones.h"
+
